@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/GiulioMat/provaesame/issues"
   },
-  "homepage": "https://github.com/GiulioMat/provaesame#readme"
+  "homepage": "https://github.com/GiulioMat/provaesame#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uniqid": "^5.0.3"
+  }
 }
